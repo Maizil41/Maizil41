@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi THERE 👋, JOIN MY `TELEGRAM` GROUP
+  Hi THERE 👋, JOIN MY TELEGRAM GROUP
 </h1>
 
 <br/>
