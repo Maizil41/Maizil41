@@ -1,4 +1,6 @@
-## Hi there 👋, JOIN OUR TELEGRAM GROUP
+<h1 align="center">
+  Hi there 👋, JOIN MY TELEGRAM GROUP
+</h1>
 
 <br/>
 <div align="center">
