@@ -1,9 +1,13 @@
 ## Hi there 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maizil41&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maizil41&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align='center'>
+    <a href='https://github.com/Maizil41'>
+      <img alt='Maizil41' src='https://github-readme-stats.vercel.app/api?username=Maizil41&hide=["issues","prs"]&show_icons=true&theme=tokyonight&langs_count=8' style='width:80%'/>
+    </a>
+    <a href='https://github.com/Maizil41'>
+      <img alt='Most Used Langs' src='https://github-readme-stats.vercel.app/api/top-langs?username=Maizil41&show_icons=true&theme=tokyonight&locale=en&layout=compact' style='width:80%'/>
+    </a>
+</p>
 
 <br/>
 <div align="center">
