@@ -2,10 +2,10 @@
 
 <p align='center'>
     <a href='https://github.com/Maizil41'>
-      <img alt='Maizil41' src='https://github-readme-stats.vercel.app/api?username=Maizil41&hide=["issues","prs"]&show_icons=true&theme=tokyonight&langs_count=8' style='width:80%'/>
+      <img alt='Maizil41' src='https://github-readme-stats.vercel.app/api?username=Maizil41&hide=["issues","prs"]&show_icons=true&theme=tokyonight&langs_count=8' style='width:50%'/>
     </a>
     <a href='https://github.com/Maizil41'>
-      <img alt='Most Used Langs' src='https://github-readme-stats.vercel.app/api/top-langs?username=Maizil41&show_icons=true&theme=tokyonight&locale=en&layout=compact' style='width:80%'/>
+      <img alt='Most Used Langs' src='https://github-readme-stats.vercel.app/api/top-langs?username=Maizil41&show_icons=true&theme=tokyonight&locale=en&layout=compact' style='width:50%'/>
     </a>
 </p>
 
