@@ -1,6 +1,10 @@
-<h1 align="center">
-  Hi There 👋, I'm Maizil a beginner from Indonesia
-</h1>
+<div align="center">
+
+<picture>
+    <img alt="Introduce Myself" src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&font=Roboto&size=32&height=55&lines=Hi+There+👋,+I+am+Maizil;+Welcome+to+My+Space!" />
+</picture>
+
+</br>
 
 ###
 
