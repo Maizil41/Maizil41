@@ -24,4 +24,68 @@
 <a href="https://t.me/+X1zD3nY9Fz1lNDU1"><img src="https://img.shields.io/badge/Telegram--Groups-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
+### Projects
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📁 Name</b></td>
+      <td><b>✍️ Description</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>⬇️ Downloads</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>❌ Issues</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Maizil41/Mutiara-Wrt"><b>Mutiara-Wrt</b></a></td>
+      <td>Custom OpenWrt Firmware.</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Maizil41/Mutiara-Wrt?style=flat-square&label=Stars&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://img.shields.io/github/downloads/Maizil41/Mutiara-Wrt/total?style=flat-square&label=Downloads&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Maizil41/Mutiara-Wrt?style=flat-square&label=Forks&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Maizil41/Mutiara-Wrt?style=flat-square&label=Issues&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Maizil41/RadiusMonitor"><b>Radius Monitor</b></a></td>
+      <td>Radius Hotspot Monitor.</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Maizil41/RadiusMonitor?style=flat-square&label=Stars&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://img.shields.io/github/downloads/Maizil41/RadiusMonitor/total?style=flat-square&label=Downloads&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Maizil41/RadiusMonitor?style=flat-square&label=Forks&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Maizil41/RadiusMonitor?style=flat-square&label=Issues&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Maizil41/RadMonv2"><b>RadMon V2</b></a></td>
+      <td>Radius Hotspot Monitor V2.</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Maizil41/RadMonv2?style=flat-square&label=Stars&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://img.shields.io/github/downloads/Maizil41/RadMonv2/total?style=flat-square&label=Downloads&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Maizil41/RadMonv2?style=flat-square&label=Forks&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Maizil41/RadMonv2?style=flat-square&label=Issues&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Maizil41/Telebot-Radius"><b>Telebot-Radius</b></a></td>
+      <td>Telegram bot for Monitoring Radius Hotspot.</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Maizil41/Telebot-Radius?style=flat-square&label=Stars&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://img.shields.io/github/downloads/Maizil41/Telebot-Radius/total?style=flat-square&label=Downloads&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Maizil41/Telebot-Radius?style=flat-square&label=Forks&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Maizil41/Telebot-Radius?style=flat-square&label=Issues&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Maizil41/luci-app-radius-monitor"><b>luci-app-radius-monitor</b></a></td>
+      <td>Luci Support For RadiusMonitor.</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Maizil41/luci-app-radius-monitor?style=flat-square&label=Stars&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://img.shields.io/github/downloads/Maizil41/luci-app-radius-monitor/total?style=flat-square&label=Downloads&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Maizil41/luci-app-radius-monitor?style=flat-square&label=Forks&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Maizil41/luci-app-radius-monitor?style=flat-square&label=Issues&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Maizil41/whatsapp-bot"><b>whatsapp-bot</b></a></td>
+      <td>Whatsapp bot for Radius Monitor.</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Maizil41/whatsapp-bot?style=flat-square&label=Stars&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://img.shields.io/github/downloads/Maizil41/whatsapp-bot/total?style=flat-square&label=Downloads&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Maizil41/whatsapp-bot?style=flat-square&label=Forks&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Maizil41/whatsapp-bot?style=flat-square&label=Issues&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
 </div>
