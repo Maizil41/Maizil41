@@ -1,6 +1,6 @@
 <div align="center">
 <picture>
-    <img alt="Introduce Myself" src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&font=Roboto&size=32&height=55&lines=Hi+There+👋,+I+am+Maizil;+Welcome+to+My+Space!" />
+    <img alt="Intro" src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&font=Roboto&size=32&height=55&lines=Hi+There+👋,+I+am+Maizil;+Welcome+to+My+Space!" />
 </picture>
 </br>
 
@@ -21,10 +21,6 @@
 <a href="https://www.youtube.com/@mutiara-wrt"><img src="https://img.shields.io/badge/Youtube--Channel-e02c2c?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://t.me/+X1zD3nY9Fz1lNDU1"><img src="https://img.shields.io/badge/Telegram--Groups-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
-
-<div align="center">
-  <img src="qris.png" alt="logo" width="350">
-</div>
 
 ### Projects
 <table>
