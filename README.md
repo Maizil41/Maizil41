@@ -22,6 +22,8 @@
 <a href="https://t.me/+X1zD3nY9Fz1lNDU1"><img src="https://img.shields.io/badge/Telegram--Groups-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
+<img src="https://raw.githubusercontent.com/maizil41/maizil41/output/snake.svg" alt="Snake animation" />
+
 ### Projects
 <table>
   <thead align="center">
