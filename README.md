@@ -24,7 +24,6 @@
 
 <img src="https://raw.githubusercontent.com/maizil41/maizil41/output/snake.svg" alt="Snake animation" />
 
-### Projects
 <table>
   <thead align="center">
     <tr border: none;>
