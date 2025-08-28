@@ -1,6 +1,6 @@
 ```json
 {
-  "status": "success",
+  "status": "online",
   "Message": "Hi There 👋, Welcome To My Github Profile"
   "data": [
     {
