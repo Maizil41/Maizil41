@@ -1,12 +1,16 @@
 ```json
-(
-  {
-       "Name": "Maizil",
-       "Status": "Online",
+{
+  "status": "success",
+  "Message": "Hi There 👋, Welcome To My Github Profile"
+  "data": [
+    {
+       "Username": "maizil41",
        "Location": "South Aceh, Indonesia",
-       "Message": "Hi There 👋, Welcome To My Github Profile!"
-  }
-)
+       "Telegram": "https://t.me/maizil41",
+       "Facebook": "https://www.facebook.com/maizil.41"
+    }
+  ]
+}
 ```
 </br>
 
