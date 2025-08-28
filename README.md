@@ -1,7 +1,13 @@
-<div align="center">
-<picture>
-    <img alt="Intro" src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&font=Roboto&size=32&height=55&lines=Hi+There+👋;+Welcome+to+My+Space!" />
-</picture>
+```json
+(
+  {
+       "Name": "Maizil",
+       "Status": "Online",
+       "Location": "South Aceh, Indonesia",
+       "Message": "Hi There 👋, Welcome To My Github Profile!"
+  }
+)
+```
 </br>
 
 ###
