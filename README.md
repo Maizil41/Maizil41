@@ -5,7 +5,7 @@
   "data": [
     {
        "Username": "maizil41",
-       "Location": "South Aceh, Indonesia",
+       "Location": "Indonesia",
        "Telegram": "https://t.me/maizil41",
        "Facebook": "https://www.facebook.com/maizil.41"
     }
